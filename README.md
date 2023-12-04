@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neosyuri
 - 🌱 I’m currently learning Html/CSS/Java/Angular
-- 💞️ I’m looking to be a FullStack developer
+- 💞️ I’m looking to be a FrontEnd developer
  
 
 <!---
